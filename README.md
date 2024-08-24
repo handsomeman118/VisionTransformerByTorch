@@ -3,4 +3,4 @@
 ### Vit 模型结构图
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/handsomeman118/VisionTransformerByTorch/blob/main/VitStructGraph.png)
 ### Vit 论文模型参数表
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/handsomeman118/VisionTransformerByTorch/blob/main/VitStructGraph.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle](https://github.com/handsomeman118/VisionTransformerByTorch/blob/main/VitParamsDataTable.png)
